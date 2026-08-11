@@ -95,19 +95,6 @@ shap
 
 ---
 
-## 📁 Структура репозитория
-
-```
-.
-├── final_notebook.ipynb          # Основной Jupyter Notebook
-├── README.md                     # Описание проекта
-├── requirements.txt              # Зависимости
-├── LICENSE                       # Лицензия MIT
-└── .gitignore
-```
-
----
-
 ## 🚀 Быстрый старт
 
 ### 1. Клонирование репозитория
